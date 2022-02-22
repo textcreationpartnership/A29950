@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New-Years-gift for the anti-prerogative-men, or, A lawyers opinion, in defence of His Majesties power-royal, of granting pardons as he pleases wherein is more particularly discussed the validity of the E. of D's pardon, by way of a letter to a friend.</title>
+            <author>Brydall, John, b. 1635?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29950</idno>
+            <idno type="STC">Wing B5264</idno>
+            <idno type="STC">ESTC R19863</idno>
+            <idno type="EEBO-CITATION">12258765</idno>
+            <idno type="OCLC">ocm 12258765</idno>
+            <idno type="VID">57706</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57706)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 173:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New-Years-gift for the anti-prerogative-men, or, A lawyers opinion, in defence of His Majesties power-royal, of granting pardons as he pleases wherein is more particularly discussed the validity of the E. of D's pardon, by way of a letter to a friend.</title>
+                  <author>Brydall, John, b. 1635?</author>
+               </titleStmt>
+               <extent>34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.H. for John Fish ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E. of D.: an abbreviation of Earl of Danby (i.e. Thomas Osborne, 1st Duke of Leeds).</note>
+                  <note>Errata: p. 34.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+               <term>Prerogative, Royal.</term>
+               <term>Pardon --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57706:1"/>
+            <pb facs="tcp:57706:1" rendition="simple:additions"/>
+            <p>A New-Years-Gift FOR THE <hi>Anti-Prerogative-Men:</hi> OR,</p>
+            <p>A Lawyers Opinion, in Defence of His Majeſties Power-Royal, of granting Pardons, as he pleaſes.</p>
+            <p>Wherein is more particularly diſcuſ<g ref="char:EOLhyphen"/>ſed the validity of the E. of <hi>D</hi>'s Par<g ref="char:EOLhyphen"/>don, by way of Letter to a Friend.</p>
+            <q>
+               <bibl>Seneca <hi>to the Emperour.</hi>
+               </bibl>
+               <p>Occidere contra Legem nemo poteſt, ſervare nemo praeter te</p>
+               <bibl>Bracton. <hi>lib. 1. c. 8. de Corona.</hi>
+               </bibl>
+               <p>Rex poteſtatem habet jucondi de vita &amp; membris, vel tol. lendi vitam, vel concedendi.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, by <hi>H. H.</hi> for <hi>John Fiſh,</hi> near the Golden <hi>Tun</hi> in the <hi>Strand,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57706:2"/>
+            <pb n="1" facs="tcp:57706:2"/>
+            <head>A New-Years-Gift FOR THE Anti-Prerogative-Men, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs I have received, and read, wherein you are pleaſed to intimate to me, that you are now very well ſa<g ref="char:EOLhyphen"/>tiſfied in your mind, by reading over thoſe ſeveral Pieces I ſent you, touching the Right, that my Lords, the Biſhops claim to judge in Capital Cauſes in Parliament, as likewiſe the unreaſonableneſs of excluding his Roy<g ref="char:EOLhyphen"/>al Highneſs, the Duke of York, from the Succeſſion to the Imperial Crown of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> But there is yet (ſay you) a third ſcruple remaining on you; And that is about the validity of the E. of <hi>D</hi>'s Pardon; where<g ref="char:EOLhyphen"/>fore
+<pb n="2" facs="tcp:57706:3"/>you are very deſirous to know of me (ſeeing there is nothing hitherto purpoſely written on that Subject) whether I think that ſame Pardon good; and in caſe I do, you expect I ſhould give you ſome Reaſons why I do ſo.</p>
+            <p>I muſt tell you, that 'tis contrary to my humour to ingage my ſelf in ſuch kind of Controverſies at any time, but more eſpe<g ref="char:EOLhyphen"/>cially at this inſtant; you have ever known me (like your ſelf) a great Admirer of that Principle, we commonly call <hi>ſelf-preſervati<g ref="char:EOLhyphen"/>on.</hi> However in obedience to your com<g ref="char:EOLhyphen"/>mand, and to ſatisfie that obligation, which lies on me (ſo far as I can) to vindicate Truth, and the Father of our Countrey, in His Prerogative-Royal, I ſhall not value the ſleeping (as they ſay) in a whole Skin, but ſhall endeavour to ſay ſomething, which may not be impertinent, towards the Con<g ref="char:EOLhyphen"/>viction of <hi>Anti-Prerogative-Men,</hi> and your own ſatisfaction. And in order thereunto, I think it convenient to ſhew you,</p>
+            <p n="1">1. What a Pardon is.</p>
+            <p n="2">2. By whom, and in whoſe Name only, all Pardons are made.</p>
+            <p n="3">3. What things his Majeſty may, and what he may not pardon.</p>
+            <pb n="3" facs="tcp:57706:3"/>
+            <p n="4">4. Who is Judge of the validity, and in<g ref="char:EOLhyphen"/>validity of a Pardon, when pleaded in the Houſe of Lords, or elſewhere.</p>
+            <p>And in the laſt place I ſhall give you my Sentiments in particular, concerning the Par<g ref="char:EOLhyphen"/>don, granted to the E. of <hi>D.</hi> together with So<g ref="char:EOLhyphen"/>lutions to ſome Objections that have been made in Coffee-Houſes.</p>
+            <p>A Pardon (ſays Sir <hi>Edward Coke</hi>) is a work of Mercy, whereby the King either be<g ref="char:EOLhyphen"/>fore Attiander, Sentence, or Conviction, or after, forgiveth any Crime, Offence, Puniſh<g ref="char:EOLhyphen"/>ment, Execution, Right, Title, Debt, or Du<g ref="char:EOLhyphen"/>ty, Temporal, or Eccleſiaſtical. Or,</p>
+            <p>A Pardon (ſay others) is the remitting, or forgiving, any offence committed, <hi>contra dignitatem &amp; Coronam Regis.</hi> Agreeable to that of <hi>Seneca, Venia eſt poenae meritae remiſ<g ref="char:EOLhyphen"/>ſio:</hi> So that <hi>Liberatio a poena,</hi> is the proper effect of a Pardon, and it differs from a Diſpenſation thus; a Diſpenſation obtain<g ref="char:EOLhyphen"/>ed, doth <hi>Jus dare</hi> and make the thing pro<g ref="char:EOLhyphen"/>hibited, lawful to be done by the Party who hath it; But a Pardon frees from the puniſhment due for a thing unlawfully done, yet freedom from puniſhment is a conſe<g ref="char:EOLhyphen"/>quent of a Diſpenſation, though not its ef<g ref="char:EOLhyphen"/>fect,
+<pb n="4" facs="tcp:57706:4"/>as 'tis moſt ingeniouſly obſerved by the late Lord Chief Juſtice <hi>Vaughan.</hi>
+            </p>
+            <p>In the next place I am to conſider whoſe Prerogative it is to grant Pardons. This ſurely none can challenge but the King, in whom is veſted the Soveraign and Supreme Authority of the Nation; this I will make good by way of Syllogiſm.</p>
+            <p>He, in whom is veſted the Soveraign and Supreme Authority of the Nation, hath pow<g ref="char:EOLhyphen"/>er of Life and Death;</p>
+            <p>But in the King is veſted the Soveraign and Supreme Authority of the Nation: <hi>Ergo,</hi>
+            </p>
+            <p>The King only has power of Life, &amp; Death.</p>
+            <p>The Major Propoſition I prove thus;
+<note place="margin">Curtius; <hi>Et cùm in regali ſolio reſidebi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, vitae, ne<g ref="char:EOLhyphen"/>ciſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> om<g ref="char:EOLhyphen"/>nium Civi<g ref="char:EOLhyphen"/>um Domi<g ref="char:EOLhyphen"/>nus.</hi> Zouch's <hi>E<g ref="char:EOLhyphen"/>lements part.</hi> 4. <hi>ſect.</hi> 4. <hi>Ad Maje<g ref="char:EOLhyphen"/>ſtatem ſpe<g ref="char:EOLhyphen"/>ctat poteſtas vitae, ac n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cis, cùm ſolus Princeps primariò habet Jus Gladii.</hi>
+               </note> 
+               <hi>Jus Gladii,</hi> Power of Life and Death, is an eſſential, and inſeparable attribute of the Soveraign and Supreme Authority (for where there is not <hi>Jus vitae &amp; necis,</hi> there can be no Supreme Power,) <hi>Ergo</hi> he, in whom is veſted the Soveraign Power, has power of Life and Death.</p>
+            <p>As for the Minor Propoſition, I preſume no body (except a Popeling or a Whig,) but will grant that our King is Supreme Gover<g ref="char:EOLhyphen"/>nour
+<pb n="5" facs="tcp:57706:4"/>of this Realm, and all other his Domi<g ref="char:EOLhyphen"/>nions, ſeeing our Authentick Laws and Sta<g ref="char:EOLhyphen"/>tutes do ſo expreſly and ſo often ſay it.</p>
+            <p>All (ſays <hi>Bracton</hi>) are under the King,
+<note place="margin">
+                  <hi>Bracton. lib.</hi> 1. <hi>c.</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>num.</hi> 5.</note> and the King is under God only; He hath no equal in his Realm (no Co-ordination here) becauſe then he could not Command all, for amongſt Equals there can be no Empire, Therefore much leſs are any his Superiours, or can challenge greater Power, becauſe then he would be under his Subjects; and <hi>Inferi<g ref="char:EOLhyphen"/>ores pares eſſe non poſſunt potentioribus. Ipſe autem Rex non debet eſſe ſub homine ſed ſub Deo.</hi>
+            </p>
+            <p>
+               <hi>Rex</hi> (ſays Mr. <hi>Cambden) ſupremam poteſta<g ref="char:EOLhyphen"/>tem, &amp; merum imperium apud nos habet, nec in imperii clientela eſt, nec inveſtituram ab alio quovis accipit, nec praeter Deum, ſuperiorem ag<g ref="char:EOLhyphen"/>noſcit.</hi> The King hath Sovereign Power, and Abſolute Command among us, neither holdeth he his Empire in Vaſſalage, nor re<g ref="char:EOLhyphen"/>ceiveth his Inveſtiture or Inſtalling of ano<g ref="char:EOLhyphen"/>ther, nor yet acknowledgeth any Superiour but God alone.</p>
+            <p>By the Statutes of 24 <hi>H.</hi> 8. <hi>c.</hi> 12. 25 <hi>H.</hi> 8. <hi>c.</hi> 21. 1 <hi>Eliz. c.</hi> 1. <hi>&amp;</hi> 1 <hi>Jac. c.</hi> 1. the Crown of this Kingdom is affirmed to be an Im<g ref="char:EOLhyphen"/>perial
+<pb n="6" facs="tcp:57706:5"/>Crown: and what an Empire is, Sir <hi>Thomas Ridley</hi> will give you a clear Demon<g ref="char:EOLhyphen"/>ſtration.</p>
+            <p>
+               <q>By the Empire (ſays that moſt Learned Civilian).
+<note place="margin">
+                     <hi>P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rt.</hi> 2. <hi>cap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t. ſect.</hi> 7. View of the Civil and Eccle<g ref="char:EOLhyphen"/>ſiaſtical <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aw.</note> I underſtand not only the Em<g ref="char:EOLhyphen"/>pire of <hi>Rome,</hi> but alſo every ſeveral King<g ref="char:EOLhyphen"/>dom, which acknowledgeth no other Em<g ref="char:EOLhyphen"/>perour than his own Sovereign; for how<g ref="char:EOLhyphen"/>ſoever they differ in Name and Title, yet is the Office it ſelf all one; for every one is Gods immediate Vicar upon Earth, in their own Kingdoms, for Matters apper<g ref="char:EOLhyphen"/>taining to Juſtice.</q>
+            </p>
+            <p>But further, In our Oath of Supremacy we Swear, that the King is the only Su<g ref="char:EOLhyphen"/>preme Governour: Supreme, ſo none (not the Pope) above him: And only Supreme, ſo none has any Co-equal, Co-ordinate, Corrival power with his Soveraignty. But it has been heretofore ſaid by ſome Hunt-ſcrap Statiſts, That the Oath of Supremacy is taken in oppoſition to the Pope, to ex<g ref="char:EOLhyphen"/>clude the Supremacy uſurped by that old Gentleman for many years. 'Tis truth they ſpeak, but ſurely not all the Truth; for there are two Points in it;</p>
+            <pb n="7" facs="tcp:57706:5"/>
+            <p>The one, that is Negative, whereby we profeſs, that not any Foreign State, or Po<g ref="char:EOLhyphen"/>tentate, nor the Pope hath this Power: The other Poſitive, by which the Subject of this Power is ſpecified. The Kings Highneſs is the only Supreme Governour of this Realm, as in all Spiritual things and Cauſes, ſo like<g ref="char:EOLhyphen"/>wiſe in Temporal matters: Both Eccleſi<g ref="char:EOLhyphen"/>aſtical and Civil Supremacy are in this Oath aſſerted to be in the King. It was not thought ſufficient to tell who was not Su<g ref="char:EOLhyphen"/>preme, but to declare alſo who was.</p>
+            <p>So that now (Sir) you may perceive that by our known Laws our King is Inveſted with ſuch a Supremacy as excludes both Pope and People, from having any Power, Juriſdiction, or Authority over him; And if ſo, then certainly we may conclude that he who has Veſted in him the Sovereign Power, has alſo <hi>Vitae ac necis Authoritatem,</hi> the ſole power of Life and Death, to ſave or deſtroy, as well to pardon as to puniſh Offenders.</p>
+            <p>Next come I to conſider what Offences the King (as Supreme Governour of this Realm) can pardon or remit, and what he cannot as to Temporal matters.</p>
+            <pb n="8" facs="tcp:57706:6"/>
+            <p>In the firſt place I ſhall ſhew you what things the King cannot pardon, according to the Laws of <hi>England;</hi> as for example,</p>
+            <p>In an Appeal of Death,
+<note place="margin">11 <hi>R.</hi> 2. <hi>Chr.</hi> 17. 2 <hi>R.</hi> 3.8. <hi>Co.</hi> 3. <hi>Inst. f.</hi> 237.</note> Robbery, Rape, <hi>&amp;c.</hi> the King cannot pardon the Defendant, for the Appeal is the Suit of the Party, to have Revenge by Death; and whether the Defendant be attainted by Judgment, <hi>&amp;c.</hi> or by Outlawry, the Kings Pardon ſhall not diſ<g ref="char:EOLhyphen"/>charge the Defendant.</p>
+            <p>So in an Attaint by <hi>A.</hi> againſt the Party,
+<note place="margin">13 <hi>E.</hi> 4, 5. <hi>a. Co.</hi> 3. <hi>Inst.</hi> 237.</note> and the Petit Jury againſt the party to have Reſtitution; this the King cannot pardon.</p>
+            <p>So the King cannot pardon Nuzances,
+<note place="margin">
+                  <hi>Co.</hi> 3. <hi>Inst.</hi> 237. <hi>c.</hi> 20. 2 <hi>part Dewell. v. Saunders. Davis Rep</hi> 75. <hi>a. b. Houghans Rep. Tho<g ref="char:EOLhyphen"/>mas v. Sor<g ref="char:EOLhyphen"/>rel.</hi>
+               </note> that are (not tranſient but) continuing, as a Nuzance in <hi>Viâ Regiâ,</hi> that ſtill con<g ref="char:EOLhyphen"/>tinues and is not ended, until removed; and ſo of a Water-courſe diverted, or Bridge broken down, they cannot be pardoned, ſo as to acquit the Nuzance-maker, for Com<g ref="char:EOLhyphen"/>mitting them.</p>
+            <p>So a Mayor of a Town,
+<note place="margin">Vanghans Rep. Edw. Thomas. v. Sorrel.</note> or other Toll<g ref="char:EOLhyphen"/>taker, who is penally bound to provide the Market-Meaſures, and doth not, cannot be pardoned by the King, becauſe the fault ſtill continues.</p>
+            <pb n="9" facs="tcp:57706:6"/>
+            <p>So if one be bound in a Recognizance to the King,
+<note place="margin">1 <hi>H.</hi> 7.10. 11 <hi>H.</hi> 7.12. Co. 3. <hi>Inſt.</hi> 238.</note> to keep the Peace againſt ano<g ref="char:EOLhyphen"/>ther by name, and generally all other Sub<g ref="char:EOLhyphen"/>jects of the King; In this Caſe before the peace be broken, the King cannot pardon or releaſe the Recognizance, although it be made only to him, becauſe it is for the be<g ref="char:EOLhyphen"/>nefit, and ſafety of his Subjects.</p>
+            <p>So after an Action popular be brought,
+<note place="margin">1 <hi>H.</hi> 7.3. a. Co. 3. <hi>Inst.</hi> 194, 195, 238.</note> 
+               <hi>Tam pro Domino Rege quam pro ſeipſo,</hi> accor<g ref="char:EOLhyphen"/>ding to any ſtatute, the King cannot diſ<g ref="char:EOLhyphen"/>charge the Informers part, becauſe by bring<g ref="char:EOLhyphen"/>ing of the Action, the Party hath an In<g ref="char:EOLhyphen"/>tereſt therein.</p>
+            <p>Come I now (Sir) to demonſtrate what Offences the King can pardon by the Law of <hi>England.</hi>
+            </p>
+            <p>If a Man Arreſted for Felony,
+<note place="margin">Co. 3. <hi>Inst.</hi> 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. Hobarts <hi>Reports</hi> Cudding<g ref="char:EOLhyphen"/>ton <hi>v.</hi> Wil<g ref="char:EOLhyphen"/>kins <hi>f.</hi> 82.</note> break Pri<g ref="char:EOLhyphen"/>ſon, he loſes his Battel, but if the King par<g ref="char:EOLhyphen"/>don that breaking of Priſon, the Defendant ſhall be reſtored to the Battel, and the Coun<g ref="char:EOLhyphen"/>terplea taken away.</p>
+            <p>So in divers caſes at the Suit of the Par<g ref="char:EOLhyphen"/>ty, when the Defendant either by the Com<g ref="char:EOLhyphen"/>mon Law, or by any Statute (beſides the re<g ref="char:EOLhyphen"/>ſtitution or damage of the Party, Plaintiff) is thereby alſo to have exemplary puniſh<g ref="char:EOLhyphen"/>ment,
+<pb n="10" facs="tcp:57706:7"/>the King may pardon the ſame; as firſt, for inſtance at the Common-Law.</p>
+            <p>In an Attaint by <hi>A,</hi> againſt the party and the Petit Jury;
+<note place="margin">
+                  <hi>Co.</hi> 3. <hi>Inst.</hi> 237.</note> againſt the party to have reſtitution, this (as is ſaid before) the King may not pardon: Againſt the Petit Jury, by the Common-Law, <q>That they ſhould loſe Liberam Legem, their Wives and Children caſt out of their Houſes; their Houſes waſted, their Trees proſtrated, their Meadows plough<g ref="char:EOLhyphen"/>ed up, their Goods and Chattels ſeized, and their Bodies taken,</q> This the King may par<g ref="char:EOLhyphen"/>don; becauſe it is a puniſhment, exempla<g ref="char:EOLhyphen"/>ry to deter others, and tendeth not to the reſtitution or ſatisfaction of the Plaintiff.</p>
+            <p>Now to offer Inſtances upon Statute-Law. The Defendant in an Appeal of Murder,
+<note place="margin">
+                  <hi>Co. lib.</hi> 5. <hi>f.</hi> 50. Bug<g ref="char:EOLhyphen"/>gins <hi>Caſe. Co.</hi> 3. <hi>Inst.</hi> 237. Hobarts <hi>Rep. f.</hi> 294. Seale <hi>v.</hi> Williams.</note> upon Not Guilty pleaded, was found Guilty of Man-ſlaughter: And it was reſolved by the Judges upon Conference be<g ref="char:EOLhyphen"/>twixt them, That the Queen may pardon the burning of the Hand, for that is no part of the Judgment at the Suit of the Party Plaintiff in the Appeal, but it is a collateral, and ex<g ref="char:EOLhyphen"/>emplary puniſhment inflicted by the Statute of 4 <hi>H.</hi> 7. <hi>c.</hi> 13.</p>
+            <p>So upon the Statute of <hi>Weſtm.</hi>
+               <note place="margin">
+                  <hi>Co.</hi> 3. <hi>Inst. f.</hi> 171, 237.</note> 2. <hi>c.</hi> 25.
+<pb n="11" facs="tcp:57706:7"/>that giveth two years Impriſonment, in a Raviſhment of Ward, the King may pardon the ſaid corporal puniſhment of Impriſon<g ref="char:EOLhyphen"/>ment.</p>
+            <p>So upon the Statute of <hi>Weſtm. c.</hi> 20.
+<note place="margin">15 Eliz. Dyer 323. 9 Eliz. Dyer 269. <hi>Co.</hi> 2. <hi>Inst.</hi> 200.</note> 
+               <hi>De Malefactoribus in parcis,</hi> the Damages con<g ref="char:EOLhyphen"/>cern the Plaintiff, and therefore the Kings pardon cannot diſpenſe with them; but the Ranſome, the finding of Surety, and the for<g ref="char:EOLhyphen"/>juring the Realm, are puniſhments exempla<g ref="char:EOLhyphen"/>ry, and concern the King, and therefore he may pardon the ſame.</p>
+            <p>So there is a Clauſe in the Statute of 5 <hi>Eliz. c.</hi> 14.
+<note place="margin">15 Eliz. Dyer 322. Taverners <hi>Caſe,</hi> Co. 3. <hi>Inst.</hi> 171.</note> That the Plaintiff ſhall not releaſe nor diſcontinue the puniſhment, <hi>&amp;c.</hi> but only Coſts and Damages: and yet it was reſolved, that the Queen might pardon the corporal puniſhment, that doth trench to common example.</p>
+            <p>So before any Action popular brought,
+<note place="margin">1 H. 7.3. Co. 3. <hi>Inst.</hi> 194, 195, 238. 37 H. 6.4.</note> the King may diſcharge the whole, becauſe the Informer cannot bring an Action or In<g ref="char:EOLhyphen"/>formation originally for his part only, but muſt purſue the Statute.</p>
+            <p>So the breaking the Aſſize of Bread and Ale, the foreſtalling the Market, Ingroſſing,
+<note place="margin">Vaughans <hi>Reports,</hi> Edward Thomas <hi>v.</hi> Sorrel.</note> Regrating, or the like, which continue not,
+<pb n="12" facs="tcp:57706:8"/>but are over as ſoon as done, until done <hi>de novo</hi> may be pardoned by the King; ſo as the Offender ſhall not be Impleaded for them, otherwiſe than by perſons that have received particular damage, which the King cannot remit.</p>
+            <p>To conclude;
+<note place="margin">Vaughans <hi>Reports,</hi> Edward Thomas <hi>v.</hi> Sorrel.</note> Although the King can<g ref="char:EOLhyphen"/>not acquit Nuzance-Makers for committing Nuzances, yet the Fine or puniſhment im<g ref="char:EOLhyphen"/>poſed for the doing them, may be pardoned by the King.</p>
+            <p>Thus (Sir) having given you a true ex<g ref="char:EOLhyphen"/>tent and latitude of his Majeſties pardon<g ref="char:EOLhyphen"/>ing Power, that is to ſay, what the King may, and what he cannot pardon, relating to matters Temporal, I come to the next particular propoſed in the beginning, And that was to ſhew, who ought to be Judge and Interpreter of Pardons granted by the King, as to the validity or invalidity of them, when pleaded in the high Court of Parliament.</p>
+            <p>That with the Soveraign Prince, reſideth the prime and ſupreme Power of interpre<g ref="char:EOLhyphen"/>ting of his own Laws, Reſcripts and Grants, cannot be denied; for both the Common and
+<pb n="13" facs="tcp:57706:8"/>Civil Law Profeſſors do affirm,
+<note place="margin">Bracton <hi>lib.</hi> 2. <hi>c.</hi> 16. <hi>num.</hi> 3. Fleta <hi>lib.</hi> 3. <hi>c.</hi> 14. <hi>num.</hi> 4. <hi>D.</hi> 28.6. 43. <hi>D.</hi> 50. 17.191. <hi>c.</hi> 1.14.12. 1. Princeps conditor, &amp; inter<g ref="char:EOLhyphen"/>pres Le<g ref="char:EOLhyphen"/>gum uni<g ref="char:EOLhyphen"/>cus.</note> 
+               <hi>That in doubtful and obſcure points, the interpretation and will of the Prince is to be expected, ſince it is his part to interpret, who made the Law or Grant.</hi>
+            </p>
+            <p>Now our King as the ſupreme Legiſlator and interpreter, has communicated this his Authority to ſome particular perſons, for the interpreting and expounding his Laws and Grants; And the reaſon why he has ſo dele<g ref="char:EOLhyphen"/>gated this power to them, is rendred by <hi>Forteſcue</hi> thus; <q>You ſhall better (ſays he to <hi>H.</hi> 6.) execute Judgment by others, than by your ſelf; neither hath it been ſeen that any King of England hath pronounced Judgment with his own mouth.</q> The former part of <hi>Forteſcue</hi>'s words are Orthodox, but the latter part are not ſo: If the famous Anti<g ref="char:EOLhyphen"/>quary, Mr. <hi>Selden,</hi> may be credited; for he in his Notes <hi>ad cap.</hi> 8. of <hi>Forteſcue</hi> affirms, that Kings themſelves often ſate in Court, in the Kings-Bench: and in the Rolls of Charters under King <hi>John,</hi> and the time near him, often occur Grants that ſuch or ſuch Engliſh ſhould not be Impleaded, or put to Anſwer, <hi>niſi coram nobis, vel Capitali Juſtitia noſtra,</hi> and to <hi>Normans, niſi coram nobis, vel
+<pb n="14" facs="tcp:57706:9"/>Capitali Seneſchallo noſtro.</hi> Here <hi>coram Ca<g ref="char:EOLhyphen"/>pitali Juſtitia</hi> is divided from <hi>coram Rege,</hi>
+               <note place="margin">That Kings have in former times per<g ref="char:EOLhyphen"/>ſonally ſate in the Kings-Bench. <hi>Vide</hi> Co. Litt. 7.1. <hi>b.</hi> Cambdens Britannia <hi>in</hi> Engl. <hi>f.</hi> 178. <hi>Sir</hi> Henry Woottons <hi>Hist. of Christen<g ref="char:EOLhyphen"/>dom, f.</hi> 213. Co. 4. <hi>Inst.</hi> 73.</note> the laſt ſignifying before the Kings perſon; although now Pleas held in the Kings-Bench before the Succeſſor of the <hi>Capitalis Juſtitia,</hi> are entred <hi>coram Rege:</hi> But <hi>è diverticulo in vi<g ref="char:EOLhyphen"/>am,</hi> we will return to the point propoſed, and ſhew you who are the competent Judges of the validity or invalidity of a Pardon pleaded in the houſe of Lords. In order thereto we muſt diſtinguiſh betwixt matters moved in the upper Houſe of Parliament, that concern the Cuſtoms and Priviledges thereof, and thoſe matters that purely concern the com<g ref="char:EOLhyphen"/>mon and Statute Laws of the Realm.</p>
+            <p>The former muſt be determined adjudg<g ref="char:EOLhyphen"/>ed and diſcuſſed by the courſe of Parlia<g ref="char:EOLhyphen"/>ment,
+<note place="margin">Co. 4. <hi>Inst. f.</hi> 15. Co. <hi>lib.</hi> 13. <hi>f.</hi> 63.</note> and not by the Civil Law, nor yet by the Common Laws of this Realm, uſed in more inferiour Courts; which was ſo declared to be <hi>ſecundum Legem &amp; conſuetu<g ref="char:EOLhyphen"/>dinem Parliamenti,</hi> concerning the Peers of the Realm, by the King, and all the Lords Spiritual and Temporal; and the like <hi>pari ratione</hi> is for the Commons, for any thing moved, or done in the Houſe of Commons.</p>
+            <p>But on the other ſide, if any queſtion a<g ref="char:EOLhyphen"/>riſeth
+<pb n="15" facs="tcp:57706:9"/>meerly upon the Common or Statute Law, the Judges of <hi>England</hi> are to give their Opinions, when ever it be demanded by the Lords, in their Houſe; as for in<g ref="char:EOLhyphen"/>ſtance, if a Pardon be pleaded by a Peer, or any other perſon there, and 'tis doubted whether it be good or not in Law:
+<note place="margin">
+                  <hi>Vide Sir</hi> Robert Fil<g ref="char:EOLhyphen"/>mers <hi>Pa<g ref="char:EOLhyphen"/>triarcha,</hi> where you may ſee, of what Au<g ref="char:EOLhyphen"/>thority the Opinion of the Judges hath been in Parlia<g ref="char:EOLhyphen"/>ments.</note> This <hi>Query</hi> (I humbly conceive) muſt be referred by the Lords to the Kings Juſtices for their ſolution.</p>
+            <p>And as all the Judges, or the majority of them ſhall declare themſelves, (<hi>pro</hi> or <hi>con</hi>) the Lords of Parliament, are wont uſually to determine and give ſentence according<g ref="char:EOLhyphen"/>ly; But if the queſtion be, whether the manner and circumſtances, that attend ſuch a Pardon, be valid or not, by the Cuſtom and Law of Parliament, then the Lords of Parliament themſelves, are ſolely to decide the doubt, without any Reference to the O<g ref="char:EOLhyphen"/>pinion of the Judges, for they are not to intermeddle with any Matters of Parlia<g ref="char:EOLhyphen"/>ment,
+<note place="margin">
+                  <hi>Vide</hi> Cot<g ref="char:EOLhyphen"/>tons <hi>Col<g ref="char:EOLhyphen"/>lect. f.</hi> 651. 31 <hi>H.</hi> 6. <hi>num.</hi> 27.</note> and ſo have they in ſeveral Parlia<g ref="char:EOLhyphen"/>ments confeſſed.</p>
+            <p>This (Sir) may ſuffice as to the fourth par<g ref="char:EOLhyphen"/>ticular by me propounded, and now I ha<g ref="char:EOLhyphen"/>ſten to the laſt point of all, and that is to
+<pb n="16" facs="tcp:57706:10"/>conſider of the E. of <hi>D</hi>'s Caſe in particular, but before I ſhall handle it, I muſt tell you this, That where-ever I have or ſhall mention Peers or Lords of Parliament, I intend as well the Lords Spiritual as the Lords Tem<g ref="char:EOLhyphen"/>poral; for I am very well ſatisfied now, (as I underſtand you are) that the Lords Spiri<g ref="char:EOLhyphen"/>tual have as much Right, in virtue of their Temporal Baronies to ſit in Capital Caſes, as the Temporal Lords can pretend to, and I am verily perſuaded, that there was never any Criminal Cauſe handled in Parliament, where the Lords Spiritual did not ſit either perſonally or by Proxy; And if not one of theſe ways, yet undoubtedly they upon their withdrawing, ever entred their Proteſtation for the ſaving of that ſame Right and Pri<g ref="char:EOLhyphen"/>viledge. And ſo I now come to treat of the validity of the E. of <hi>D</hi>'s Pardon.</p>
+            <p>And I take this (Pardon me if I miſtake) to be his Caſe.</p>
+            <q>
+               <p>
+                  <hi>The E. of</hi> D. <hi>is impeached before the Lords,
+<note place="margin">
+                        <hi>E.</hi> of <hi>D's</hi> Caſe.</note> by the</hi> Commons <hi>of</hi> England, <hi>of High Treaſon, and of ſeveral other miſdemeanors; But before a<g ref="char:EOLhyphen"/>ny further proceeding in proof of the Charge a<g ref="char:EOLhyphen"/>gainſt him, His Majeſty diſſolves that Parliament,
+<pb n="17" facs="tcp:57706:10"/>and upon the diſſolution thereof, the King grants to the E. of</hi> D. <hi>a Pardon of all Treaſons and Miſdemeanours whatſoever; And then His Majeſty calls another Parliament, whereat the</hi> Commoners <hi>exhibit new Articles of the ſame Treaſons and Miſdemeanors againſt the ſaid Earl; whereupon he pleads the ſaid Pardon to this ſecond Impeachment in the Houſe of Lords.</hi>
+               </p>
+            </q>
+            <p>Now the Queſtion will be, <label type="milestone">
+                  <seg type="milestoneunit">The Query. </seg>
+               </label> whether this Pardon be good or not? The Reſolution whereof will depend on an Anſwer given to this Query following: <hi>viz.</hi>
+            </p>
+            <p>Whether his Majeſty, by virtue of his Prerogative-Royal can pardon, in the in<g ref="char:EOLhyphen"/>terval of two Parliaments thoſe Crimes, whereof the E. of <hi>D.</hi> was impeached in the former Parliament?</p>
+            <p>I humbly conceive, That his Majeſty can by His Prerogative-Royal, grant ſuch a Par<g ref="char:EOLhyphen"/>don. I preſume it will be admitted, that had this Pardon been purchaſed before any Impeachment in Parliament, it had been good; But the granting of it, after Arti<g ref="char:EOLhyphen"/>cles
+<pb n="18" facs="tcp:57706:11"/>exhibited in the Houſe of Lords, makes the doubt, which I ſhall endeavour thus to clear.</p>
+            <p>The <hi>Commons,</hi> 'tis true, as the general In<g ref="char:EOLhyphen"/>quiſitors of the Realm, have authority from the King, to examine any Crime, be it Treaſon, Felony, Oppreſſion, Bribery, Extor<g ref="char:EOLhyphen"/>tion, or the like, committed by a Lord of Parliament, Spiritual or Temporal; and if they find by the Vote of the Houſe, the Charge to be true, they have power to tranſ<g ref="char:EOLhyphen"/>mit the ſame to the Lords, with the Wit<g ref="char:EOLhyphen"/>neſſes and Proof.</p>
+            <p>As for the Peers, they are the Supreme Court of Judicature in this Nation, not only to judge whether matters preſented to their Lordſhips by the Commoners, be fit or requiſite for the King to paſs into Laws, but alſo of Writs of Error, and of Matters of Fact, either not determinable in other Courts, yet in regard of nicety or ſpecial. Matter, they cannot well diſcern or judge.</p>
+            <p>Moreover to theſe Lords of Parliament belongeth a power (and that derived from the
+<note place="margin">
+                  <hi>Vide</hi> Cot<g ref="char:EOLhyphen"/>tons Tow<g ref="char:EOLhyphen"/>er <hi>Records.</hi>
+               </note>
+               <pb n="19" facs="tcp:57706:11"/>Crown) of giving Judgments in Caſes of Treaſon, of Impeachments for ſeveral Crimes, of Slanders of Peers, of Breaches of Priviledges, both upon Peers and Commons, together with Capital Cenſures of Behead<g ref="char:EOLhyphen"/>ing, Hanging Drawing, Quartering, Impri<g ref="char:EOLhyphen"/>ſonment, Baniſhment, Fine and Forfeiture both of Lands, Goods and Offices inflicted on Offenders.</p>
+            <p>Now theſe two, The Lords and Com<g ref="char:EOLhyphen"/>mons, I mean, are convened by the Kings Writs, to aſſiſt him with their Advice in dif<g ref="char:EOLhyphen"/>ficult and weighty Matters, relating to Church and State; And in ſo doing they eaſe their Soveraign Lord of much Labour, but do not thereby deprive him of any one Tittle of Royal-Power. <q>They may (ſays the moſt glorious Royal Martyr) remember, that at beſt they ſit in Parliament as my Sub<g ref="char:EOLhyphen"/>jects, not my Superiours; called to be my Counſellors not Dictators: Their Summons ex<g ref="char:EOLhyphen"/>tends to recommend their Advice, and not to command my Duty.</q>
+            </p>
+            <p>You muſt know, that by calling a Par<g ref="char:EOLhyphen"/>liament (which is but a Meeting of the
+<pb n="20" facs="tcp:57706:12"/>King and his Subjects, (and ſuch they continue as well collectively as they were before ſingly,) and a Meeting in its own nature diſſolvable at pleaſure) the King is not grown leſs, or departed with any thing either by way of Abdica<g ref="char:EOLhyphen"/>tion or Communication of the ſoveraign Power that is veſted in him, as King of <hi>England.</hi> That were indeed to make more than one Soveraign in a Kingdom; a thing altogether inconſiſtent with Supremacy and Monarchy: So that the Soveraignty muſt be totally in the King, and where that is there muſt be <hi>Gladii poteſtas,</hi> the power of Life and Death, a Right as well of pardoning as of puniſhing Offenders. Like as divers other things do ſolely belong to the King, as Pre<g ref="char:EOLhyphen"/>rogatives incident to His Imperial Crown and Royal Dignity, whereof the Subject hath nothing to do, as the power of Cal<g ref="char:EOLhyphen"/>ling, Holding, Proroguing and Diſſolving of Parliaments, of advancing to Honours, Offices and Commands, of raiſing of Armies, of entring into Leagues and Treaties, of Founding Corporations, Guilds and Fra<g ref="char:EOLhyphen"/>ternities, of coyning of Money, of making Letters of Denization, to whom and how
+<pb n="21" facs="tcp:57706:12"/>many he will; Together with many other things that appertain to His Majeſty as ſpe<g ref="char:EOLhyphen"/>cial Flowers of His Crown.</p>
+            <p>The King of <hi>England</hi> (I muſt confeſs) may limit himſelf by Promiſe or Contract in Parliament (as he hath been pleaſed to re<g ref="char:EOLhyphen"/>ſtrain himſelf from the uſe of that power, which makes new Laws and repeals old, without the conſent of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, as likewiſe from rai<g ref="char:EOLhyphen"/>ſing Money upon the Subject without their conſent) not to pardon the Offences of ſuch Perſons as are before Impeach'd in the High Court of Parliament, without the conſent of his two Houſes, or the like: But then I muſt demand, that ſuch a Grant be produced; let it be made appear by an au<g ref="char:EOLhyphen"/>thentick Record, that the King of <hi>England</hi> has done ſo; And when ſuch a Record is ſhewn, I ſhall be as ready to plead againſt the validity of the E. of <hi>D</hi>'s Pardon, as I do now for it; Till then I deſire to be excu<g ref="char:EOLhyphen"/>ſed. Beſides, 'tis not enough to affirm, That there cannot be found any Preſident in the Parliament Rolls, wherein any Peer of the Realm has been pardoned by the
+<pb n="22" facs="tcp:57706:13"/>King, after an Impeachment has been tranſmitted to the Lords by the Commons; but a Preſident muſt be offered to prove, That a Pardon has been adjudged void, where it has been pleaded by a Peer in a later, that was charged with High Treaſon in a former Parliament.</p>
+            <p>But further yet (Sir) If the King can un<g ref="char:EOLhyphen"/>der his Great-Seal command all Proceſs, and proceedings in Criminal Cauſes to ceaſe againſt one accuſed before in Parliament, then ſure, what ſhould hinder, but the King may pardon ſuch a one? For a diſcharge of any further proceeding againſt ſuch a one directed to the Judges, and their Award thereon, <hi>That the Party accuſed ſhall go, ſine die,</hi> is equivalent to a Pardon under the Broad-Seal of <hi>England,</hi> now that there hath been ſuch a kind of diſcharge, and thereon an Award given by the Judges in the Kingſ-Bench to that purpoſe, I will make good by this Record following.</p>
+            <p>
+               <hi>Steven Graveſend,</hi>
+               <note place="margin">Paſch. 4.7 E. 3. <hi>Co<g ref="char:EOLhyphen"/>ram Rege Rot.</hi> 53. <hi>Co.</hi> 3. <hi>Inſt.</hi> 239.</note> Biſhop of <hi>London,</hi> was accuſed in Parliament, for adherency to <hi>Edmond</hi> Earl of <hi>Kent</hi> in his Treaſons, where
+<pb n="23" facs="tcp:57706:13"/>by Order of Parliament the matter was re<g ref="char:EOLhyphen"/>ferred to the Kings-Bench to be tryed, where the Biſhop pleaded Not-Guilty, and afterwards was diſcharged by the Kings Writ under the Great-Seal, directed to the Judges of the Kings-Bench, to this effect.</p>
+            <q>
+               <p>
+                  <hi>Licet venerabilis Pater</hi> Stephanus, London <hi>Epiſcopus, per breve noſtrum coram nobis ad ſectam noſtram implaci<g ref="char:EOLhyphen"/>tetur de eo, quod ipſi</hi> Edmundo <hi>nu<g ref="char:EOLhyphen"/>per Comiti</hi> Kantiae <hi>adhaeſiſſe debuerat: Quia tamen praedict. Epiſcopus de ad<g ref="char:EOLhyphen"/>haeſione, praedict. omnino immunem repu<g ref="char:EOLhyphen"/>tamus; vobis mandamus, quod placito praedict. coram nobis ulterius tenen. om<g ref="char:EOLhyphen"/>nino ſuperſedeatis.</hi>
+               </p>
+               <p>
+                  <hi>Teſte meipſo apud</hi> Weſtm. 12 <hi>die</hi> Decembr. <hi>Anno Regni noſtri</hi> 4.</p>
+            </q>
+            <pb n="24" facs="tcp:57706:14"/>
+            <p>The Award of the Court that is given thereupon, is very remarkable, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Cujus brevis praetextu conſideratum eſt, quod praedictus Epiſcopus eat inde ſine die, &amp;c. Et ulterius non proceda<g ref="char:EOLhyphen"/>tur verſus eum.</hi>
+               </p>
+            </q>
+            <p>Sir <hi>Edward Coke</hi> upon this ſame Record comments thus;</p>
+            <q>
+               <p>
+                  <hi>This man, it may be, thought, that the taking of the Pardon ſhould be an implyed Confeſſion of the Fault, and therefore went a new way: but no man that is wiſe, and well adviſed will refuſe God and the Kings Pardon, how often ſoever he may have it; for there is no man but offendeth God, and the King almoſt every day, and the Pardon is the ſafeſt and ſureſt way.</hi>
+               </p>
+            </q>
+            <p>Out of this notable Preſident, and the Comment of Sir <hi>Edward Coke</hi> thereon, we may make theſe ſeveral Remarques.</p>
+            <pb n="25" facs="tcp:57706:14"/>
+            <p>Firſt, That though <hi>Steven Graveſend</hi> was charged with High Treaſon before in Par<g ref="char:EOLhyphen"/>liament, yet the Judges of the Kings-Bench, upon the Kings Writ to them directed un<g ref="char:EOLhyphen"/>der the Broad-Seal, did award, that the ſaid <hi>Steven</hi> ſhould go <hi>ſine die; Et ulterius non procedatur verſus eum.</hi>
+            </p>
+            <p>Secondly, That this ſame Award was gi<g ref="char:EOLhyphen"/>ven by the Judges, before any Sentence or Judgment paſſed, either by themſelves, or by the Lords in Parliament.</p>
+            <p>Thirdly, That if this manner of pro<g ref="char:EOLhyphen"/>ceeding with <hi>Steven Graveſend</hi> had been contrary to the Laws and Cuſtoms of Par<g ref="char:EOLhyphen"/>liament, the Lords and Commons would no doubt have diſputed the Kings Prero<g ref="char:EOLhyphen"/>gative in this Caſe; And I cannot learn out of any Antiquary, or Hiſtorian, that this ſame Biſhop of <hi>London</hi> was ever que<g ref="char:EOLhyphen"/>ſtioned afterwards in Parliament, or the Kings-Bench Judges for thus obeying the Kings Writ.</p>
+            <p>Fourthly, That if this manner of pro<g ref="char:EOLhyphen"/>ceeding
+<pb n="26" facs="tcp:57706:15"/>in <hi>Graveſend</hi>'s Caſe be valid in Law (as it is, otherwiſe my Lord <hi>Coke</hi> would have told us ſo) then a <hi>Fortiori,</hi> the Kings granting a Pardon to the E. of <hi>D.</hi> muſt be much more; For <hi>Coke</hi> ſays, that a Pardon is the ſafeſt and ſureſt way. So that we may conclude, That either way is good, though that of a Pardon be the ſafeſt and ſureſt. Is not a Fine and Common Recovery the ſafeſt Conveyance for the paſſing of Lands. And yet a Tranſlation by Feoffment, by Bargain and Sale, <hi>&amp;c.</hi> is a good Convey<g ref="char:EOLhyphen"/>ance, though not the ſafeſt and ſureſt.</p>
+            <p>In a word, Sir <hi>Edward Coke</hi> does not at all intimate unto us, that either way is ille<g ref="char:EOLhyphen"/>gal, but only gives the Biſhop a Reprimende for his Impudence, in not embracing the beſt expedient, when he had the choice of two.</p>
+            <p>Sir, If what I have ſaid in defence of the E. of <hi>D</hi>'s Pardon, give you any ſatisfaction, I ſhall be glad; But now I think on't, my Papers will be the more welcome, if I return you Solutions to thoſe Objections that have been ſtarted at Coffee-Houſes, <label type="milestone">
+                  <seg type="milestoneunit">Objections and Solu∣tions. </seg>
+               </label> and indeed mentioned in your Letter.</p>
+            <pb n="27" facs="tcp:57706:15"/>
+            <p>The firſt Objection is, ſay you, a notable diſtinction, made betwixt Offences com<g ref="char:EOLhyphen"/>mitted againſt the Crown, and Offences perpetrated againſt the State or Common<g ref="char:EOLhyphen"/>wealth; the former the King may pardon, but by no means the latter.</p>
+            <p>I anſwer, That this is a diſtinction with<g ref="char:EOLhyphen"/>out any diverſity; For I affirm, that what<g ref="char:EOLhyphen"/>ſoever is done againſt the State or Com<g ref="char:EOLhyphen"/>mon-wealth, is done againſt the Crown, <hi>Et è contra.</hi> I am ſure in all Monarchical Governments, the learned Sir <hi>Henry Ho<g ref="char:EOLhyphen"/>bart</hi> in his Reports, tells us, <q>That the King and the Common-wealth, make but one;
+<note place="margin">Hobarts <hi>Reports f.</hi> 342. Shef<g ref="char:EOLhyphen"/>fields <hi>Caſe.</hi>
+                  </note> That the King is the Head of the Common-wealth, and the Reformation of all general wrongs be<g ref="char:EOLhyphen"/>longs to him; And, Cujus eſt condemnare,
+<note place="margin">
+                     <hi>Idem,</hi> Cud<g ref="char:EOLhyphen"/>dington <hi>v.</hi> Wilkins.</note> pu<g ref="char:EOLhyphen"/>nire, ejus eſt abſolvere, ignoſcere; Qui dam<g ref="char:EOLhyphen"/>nare poteſt (ſays the Civil-Law Text) is ab<g ref="char:EOLhyphen"/>ſolvendi quoque poteſtatem habet.</q> And there<g ref="char:EOLhyphen"/>fore in all our Indictments, it is ſaid, That ſuch a thing was done, <hi>Contra dignitatem &amp; Coronam Regis;</hi> But I never read, that ſuch a thing was perpetrated <hi>Contra rem publicam,</hi> or <hi>ſtatum populi Anglicani,</hi> unleſs it were in
+<pb n="28" facs="tcp:57706:16"/>the late Uſurpation, when this our glorious, antient and hereditary Monarchy was tur<g ref="char:EOLhyphen"/>ned into a Democratick Slavery, under the Title of <hi>The Common-wealth of</hi> England. I ſhall further add, to what I have already ſaid, towards the utter confuſion of this diſtinction, <hi>viz.</hi>
+            </p>
+            <p>That His Majeſty can by virtue of His Royal-Power, either before Attainder, Sen<g ref="char:EOLhyphen"/>tence or Conviction, or after, pardon all Crimes whatſoever, and remit all puniſh<g ref="char:EOLhyphen"/>ments, exemplary, to deter others, and not tending to the ſatisfaction or ſafety of par<g ref="char:EOLhyphen"/>ticular Perſons. In ſhort; he can pardon all manner of Crimes, that are tranſient, and not continuing before Sentence, or Convi<g ref="char:EOLhyphen"/>ction; And if the E. of <hi>D.</hi> be guilty of ſuch Offences as are permanent and continuing, pray let the <hi>Anti-Prerogative-Men</hi> name them, and in ſo doing they will very much oblige the World. All this our Books of Law are ready to make good, as you have read before in this Diſcourſe.</p>
+            <p>But then it may be replied, That although the King can pardon any Crime (be it Trea<g ref="char:EOLhyphen"/>ſon,
+<pb n="29" facs="tcp:57706:16"/>Felony, Bribery, Perjury, Extortion or the like) before Attainder, Sentence or Con<g ref="char:EOLhyphen"/>viction, or after; yet if an Impeachment be once lodged in the Lords Houſe againſt any Perſon, that Perſon cannot be pardon<g ref="char:EOLhyphen"/>ed, until he be convicted, and hath received Sentence.</p>
+            <p>To this I rejoyn thus; It muſt be grant<g ref="char:EOLhyphen"/>ed me, as I have ſaid before, that if the E. of <hi>D.</hi> had procured the Kings Pardon, be<g ref="char:EOLhyphen"/>fore any Articles had been by the Com<g ref="char:EOLhyphen"/>moners exhibited againſt him, the Pardon had been good; And why it ſhould not be ſo afterwards paſſeth my comprehenſion; For the Impeachment in Parliament does neither alter the nature of the Crimes, nor is the Kings Power of pardoning any way leſſened thereby; the Crimes are the ſame after an Accuſation in Parliament, as they were before, they are, nor greater, nor leſſer, Treaſon is Treaſon, Felony is Felony, and the like of other Offences; And as for the Regal-Authority in granting Pardons, it continues the ſame as well after as before; the King of <hi>England</hi> being as free and ab<g ref="char:EOLhyphen"/>ſolute a Monarch, in a Seſſion of Parliament
+<pb n="30" facs="tcp:57706:17"/>as out of it, which no able Juriſt, I am con<g ref="char:EOLhyphen"/>fident, will deny.</p>
+            <p>Thus much in anſwer to your firſt Ob<g ref="char:EOLhyphen"/>jection.</p>
+            <p>Your other Objection is this, That the E. of <hi>D</hi>'s Pardon is not valid in Law; be<g ref="char:EOLhyphen"/>cauſe it is but a Stamp-Patent by Creation, having not paſſed the Seals, as Statute-Law requires.</p>
+            <p>As to this Objection, I give you this An<g ref="char:EOLhyphen"/>ſwer; There are but two Statutes (if I mi<g ref="char:EOLhyphen"/>ſtake not) that preſcribe a Courſe or Form, for paſſing things under the Kings Seals.</p>
+            <p>The one of theſe ſame Statutes is the 13 <hi>R.</hi> 2. <hi>c.</hi> 1. how Charters of Pardon ought to paſs; wherein it is provided:</p>
+            <p n="1">1. That in a Pardon for Murder, Treaſon, Rape, <hi>&amp;c.</hi> The Offence committed, ſhall be ſpecified, and if there be not ſuch a ſpecifica<g ref="char:EOLhyphen"/>tion, the Charter muſt be diſallowed, I ſup<g ref="char:EOLhyphen"/>poſe, the E. of <hi>D</hi>'s Pardon is not defective in this point.</p>
+            <pb n="31" facs="tcp:57706:17"/>
+            <p n="2">2. That no Pardon of Treaſon or Felo<g ref="char:EOLhyphen"/>ny ſhall paſs without Warrant of the Privy-Seal, together with a Forfeiture of him, at whoſe Suit ſuch a Pardon is obtained. This latter clauſe is wholly Repealed, and annul<g ref="char:EOLhyphen"/>led by the 16 <hi>R.</hi> 2. <hi>c.</hi> 6. And therefore it affects not the E. of <hi>D</hi>'s Pardon at all.</p>
+            <p>The other Statute is the 27 <hi>H.</hi> 8. <hi>c.</hi> 11. wherein is ſet down the courſe of ſuing forth Grants under the Kings Sign Manual, <hi>&amp;c.</hi> Now if this Statute doth extend to Charters of Pardon as it doth to other Grants (which perhaps may be ſo, becauſe every Pardon is a Grant from the King yet neither of them (be it Charters of Pardon, or other Grants) are declared <hi>ipſo facto</hi> void; If the courſe preſcribed by this Act be not obſerved; But only it is ſaid, That before any Grant be paſſed under any of the Kings Seals; It ſhall be delivered unto the Kings principal Secretary, or to one of the Clerks of the Signet, to be at the ſaid Office paſſed ac<g ref="char:EOLhyphen"/>cordingly, together with a penalty inflicted on the Clerk, that ſhall alter the courſe pre<g ref="char:EOLhyphen"/>ſcribed, and no more.</p>
+            <pb n="32" facs="tcp:57706:18"/>
+            <p>I will offer you an Inſtance; A Parſon Marrys a Couple, that may lawfully marry, without any Banes or Licence, and in a pri<g ref="char:EOLhyphen"/>vate Houſe, and not according to the Ca<g ref="char:EOLhyphen"/>nonical Hour; This Parſon, for acting contrary to the Canons of Holy Church, is lyable to a Suſpenſion, <hi>&amp;c.</hi> But yet the Marriage ſhall ſtand good and firm in Law. For <hi>multa ſunt, quae impediunt promovendum quae non dejiciunt jam promotum: Fieri non debuit, ſed factum voluit.</hi> So (ſay I) in the E. of <hi>D</hi>'s Caſe; If the Pardon (which is but a Stamp-Patent by Creation) had paſſed all the Offices, or ſome or one of them, the Officer, or Officers had peradventure been lyable to a Parliamentary Reprimend, yet notwithſtanding the E. of <hi>D</hi>'s Pardon is valid and good in Law, <hi>Contra omnes Gentes.</hi>
+            </p>
+            <p>To be ſhort, the Rule of Holy Scripture is, in the Caſe Matrimonial, <hi>Whom God hath joyned together, let no Man put aſunder;</hi> So in the Caſe of Pardons, what his Majeſty by His Prerogative-Royal hath Knit together (<hi>viz.</hi> His Mercy and the E. of <hi>D</hi>'s Life,) Let
+<pb n="33" facs="tcp:57706:18"/>not the Lords and Commons endeavour to ſeparate. <hi>Sacrilegii inſtar eſt</hi> (ſays the Civil Law) <hi>divinis obviari beneſiciis,</hi> That is to ſay, <hi>Reſcriptis Principum adverſari.</hi>
+            </p>
+            <p>And as I plead for the E. of <hi>D</hi>'s Pardon, ſo I hope, my Plea will not prove a Scandal to others; I am ſure it will not, if they do but conſult <hi>Seneca</hi> in his Controverſies;</p>
+            <q>
+               <p>
+                  <hi>Iniquum eſt</hi> (ſays he) <hi>Collapſis manum non porrigere: Commune hoc jus generis humani eſt, nemo invidioſum jus poſtulat, quod alteri pro futurum eſt.</hi>
+               </p>
+            </q>
+            <p>Thus (Sir) having given you freely my poor Sentiments, touching the E. of <hi>D</hi>'s Par<g ref="char:EOLhyphen"/>don, I ſhall cloſe my Paper with the very ſame words that a late Author uſeth; And they are theſe:</p>
+            <q>
+               <p>
+                  <hi>I take it for one of the greateſt happineſſes of our Government, That His Majeſty hath an undoubted free Right of granting Pardons as he pleaſes: And for argument of inconvenience, it may as well be urged againſt any Act of Mer<g ref="char:EOLhyphen"/>cy,
+<pb n="34" facs="tcp:57706:19"/>the King ſhews; Every Act thereof being as inconvenient to ſome as it is merciful to others, And therefore hath the King only been Judge in all Ages, when and where he will diſpenſe it, and the People would be in a miſerable condi<g ref="char:EOLhyphen"/>tion if it were otherwiſe.</hi>
+               </p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>In the Title Page, in the Quotation of <hi>Braction,</hi> for <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, read <hi>judican<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi>
+            </p>
+            <pb facs="tcp:57706:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
